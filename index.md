@@ -24,7 +24,7 @@ So. 215 pounds. Late 2021. My daughter had just been born, she was maybe three o
 
 ---
 
-## The Night Is Dark and Full of Terrors (The 4:30am Section)
+## <span class="story-ref" data-source="GAME OF THRONES" tabindex="0" aria-label="Reference from Game of Thrones">The Night Is Dark and Full of Terrors</span> (The 4:30am Section)
 
 The workouts happen early. I mean genuinely, unreasonably early. 3:30 or 4:30 in the morning. The reason is simple and will resonate with any parent or anyone with a life that fills up fast: that is the only time that belongs entirely to me. Once the day starts, it belongs to everyone else. Stress eats the day from the outside in. Work, kids, responsibilities, whatever it is, it will find a way to colonize every hour you leave unguarded. So I stopped leaving the first hour unguarded. The workout gets it. Everything else gets what is left.
 
@@ -107,7 +107,7 @@ My goal was never 50 pounds or 30 pounds or even 10 pounds. It was always 1 or 2
 
 Around this time I also switched from chicken to seitan, which is a protein made from vital wheat gluten. I make large batches in an instant pot. Cheap, fast, some of the highest protein-to-calorie ratio of any food I have found. I used to microwave it. Now I just pull it from the fridge, hit it with mustard, and eat it cold. Saves a few minutes. Those minutes add up.
 
-You do not need to do this. Chicken works perfectly fine. I switched for the efficiency, the cost, and also because reducing animal suffering where I can matters to me. And look, if I am going to eat cold seitan with mustard every day, I need a reason to feel good about it. Scott Pilgrim vs. the World gave me one: being vegan just makes you better than most people 😄. I think about it every time I eat this stuff and somehow it works.
+You do not need to do this. Chicken works perfectly fine. I switched for the efficiency, the cost, and also because reducing animal suffering where I can matters to me. And look, if I am going to eat cold seitan with mustard every day, I need a reason to feel good about it. Scott Pilgrim vs. the World gave me one: <span class="story-ref" data-source="SCOTT PILGRIM VS. THE WORLD" tabindex="0" aria-label="Reference from Scott Pilgrim vs. the World">being vegan just makes you better than most people</span> 😄. I think about it every time I eat this stuff and somehow it works.
 
 ---
 
@@ -135,7 +135,7 @@ Ten pounds in the wrong direction after years of steady progress. The reason was
 
 I want to be specific: I am not saying strength training is bad. I am saying that for my body, at my current point, adding more than one heavy session per week breaks something in my hunger regulation that I have not yet figured out how to manage. That is information about me specifically. Your number might be different. But you find your number by going past it and noticing what breaks. Then you back off and try again.
 
-That boy ain't right. But at least he learned something.
+<span class="story-ref" data-source="KING OF THE HILL" tabindex="0" aria-label="Reference from King of the Hill">That boy ain't right.</span> But at least he learned something.
 
 ---
 
