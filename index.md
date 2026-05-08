@@ -26,7 +26,7 @@ So. 215 pounds. Late 2021. My daughter had just been born, she was maybe three o
 
 ## <span class="story-ref" data-source="GAME OF THRONES" tabindex="0" aria-label="Reference from Game of Thrones">The Night Is Dark and Full of Terrors</span> (The 4:30am Section)
 
-The workouts happen early. I mean genuinely, unreasonably early. 3:30 or 4:30 in the morning. The reason is simple and will resonate with any parent or anyone with a life that fills up fast: that is the only time that belongs entirely to me. Once the day starts, it belongs to everyone else. Stress eats the day from the outside in. Work, kids, responsibilities, whatever it is, it will find a way to colonize every hour you leave unguarded. So I stopped leaving the first hour unguarded. The workout gets it. Everything else gets what is left. Real <span class="story-ref" data-source="BATMAN" tabindex="0" aria-label="Reference from Batman">I am vengeance</span> hours, if we are being honest.
+The workouts happen early. I mean genuinely, unreasonably early. 3:30 or 4:30 in the morning. The reason is simple and will resonate with any parent or anyone with a life that fills up fast: that is the only time that belongs entirely to me. Once the day starts, it belongs to everyone else. Stress eats the day from the outside in. Work, kids, responsibilities, whatever it is, it will find a way to colonize every hour you leave unguarded. So I stopped leaving the first hour unguarded. The workout gets it. Everything else gets what is left.
 
 This is not a discipline thing. It is a logistics thing. Or, if you prefer, a <span class="story-ref" data-source="SOPRANOS" tabindex="0" aria-label="Reference from The Sopranos">what are ya gonna do?</span> thing. By the end of the day I could absolutely talk myself out of a workout. Too tired. Too much happened. Too many reasons. But at 4:30am, before any of that exists, I cannot talk myself out of anything. I just start.
 
@@ -91,7 +91,7 @@ My daily plan looked like this:
 
 Wake up, instant coffee immediately. Not real coffee. I dissolve roughly a teaspoon of instant granules into about 30 ounces of water, shake it in a container, splash of milk, done. Zero prep time, zero decision making, zero friction. I have one functional brain cell at 4:30am and I need it for pedaling, not for a French press.
 
-After the workout, one scoop of Orgain protein powder in 30 ounces of water. I put in the water first, then the scoop, drink it, then rinse the container with more water and drink that too. I paid for all that powder so I am going to drink all of it, and rinsing means I only clean the container once at the end of the day instead of multiple times. That container is also my coffee container. Everything lives in one place. <span class="story-ref" data-source="LOTR" tabindex="0" aria-label="Reference from Lord of the Rings">Keep it secret, keep it safe</span>. If you use different containers for everything you will be washing dishes all day and that is a tax on your time and your patience.
+After the workout, one scoop of Orgain protein powder in 30 ounces of water. I put in the water first, then the scoop, drink it, then rinse the container with more water and drink that too. I paid for all that powder so I am going to drink all of it, and rinsing means I only clean the container once at the end of the day instead of multiple times. That container is also my coffee container. Everything lives in one place. If you use different containers for everything you will be washing dishes all day and that is a tax on your time and your patience.
 
 Around 9am, three eggs. Then across the rest of the day, two servings of protein. Originally this was shredded rotisserie chicken from Costco. My portion was roughly a handful, which I know sounds imprecise, but once you have done it enough times you know what a handful looks like. I would pull the portion out by hand, throw it in the microwave, wash my hands, and eat it with mustard. Mustard became my best friend during this period. It packs enormous flavor for basically zero calories and it made plain protein edible every single day. When the leftover condiment packets from years of takeout finally ran out, I just bought mustard.
 
@@ -99,15 +99,15 @@ Spread throughout the day, two more protein shakes and two more coffees. End of 
 
 Also baked into the plan was a line item I called the kids' leftovers. Chicken nuggets. Apple slices. Whatever survived that looked edible. The ones that had been too handled or too grubby went to the dogs, so nothing went to waste either way. The ones I actually ate were already accounted for in the plan. If there were none, those were the days I lost a little extra. If there were, it was already in the budget.
 
-My goal was never 50 pounds or 30 pounds or even 10 pounds. It was always 1 or 2 pounds over the next 1 or 2 weeks. Small enough to be real. Small enough to actually track. Only now, looking back, do I think, wow, that is a lot of weight. During it I was just trying to lose the next pound.
+My goal was never 50 pounds or 30 pounds or even 10 pounds. It was always 1 or 2 pounds over the next 1 or 2 weeks. Small enough to be real. Small enough to actually track. Only now, looking back, do I think, wow, that is a lot of weight. During it I was just trying to lose the next pound. <span class="story-ref" data-source="THE WIRE" tabindex="0" aria-label="Reference from The Wire">All in the game</span>.
 
 ---
 
 ## The Seitan Chapter (Bear With Me)
 
-Around this time I also switched from chicken to seitan, which is a protein made from vital wheat gluten. I make large batches in an instant pot. Cheap, fast, some of the highest protein-to-calorie ratio of any food I have found. I used to microwave it. Now I just pull it from the fridge, hit it with mustard, and eat it cold. Saves a few minutes. Those minutes add up.
+Around this time I also switched from chicken to seitan, which is a protein made from vital wheat gluten. I make large batches in an instant pot. Cheap, fast, some of the highest protein-to-calorie ratio of any food I have found. I used to microwave it. Now I just pull it from the fridge, hit it with mustard, and eat it cold, which saves a few minutes, and those minutes add up.
 
-You do not need to do this. Chicken works perfectly fine. I switched for the efficiency, the cost, and also because reducing animal suffering where I can matters to me. And look, if I am going to eat cold seitan with mustard every day, I need a reason to feel good about it. Scott Pilgrim vs. the World gave me one: <span class="story-ref" data-source="SCOTT PILGRIM VS. THE WORLD" tabindex="0" aria-label="Reference from Scott Pilgrim vs. the World">being vegan just makes you better than most people</span> 😄. I think about it every time I eat this stuff and somehow it works.
+You do not need to do this. Chicken works perfectly fine. I switched for the efficiency, the cost, and also because reducing animal suffering where I can matters to me. And look, if I am going to eat cold seitan with mustard every day, I need a reason to feel good about it. Scott Pilgrim vs. the World gave me one: <span class="story-ref" data-source="SCOTT PILGRIM VS. THE WORLD" tabindex="0" aria-label="Reference from Scott Pilgrim vs. the World">being vegan just makes you better than most people</span> 😄. 
 
 ---
 
@@ -135,13 +135,13 @@ Ten pounds in the wrong direction after years of steady progress. The reason was
 
 I want to be specific: I am not saying strength training is bad. I am saying that for my body, at my current point, adding more than one heavy session per week breaks something in my hunger regulation that I have not yet figured out how to manage. That is information about me specifically. Your number might be different. But you find your number by going past it and noticing what breaks. Then you back off and try again.
 
-<span class="story-ref" data-source="KING OF THE HILL" tabindex="0" aria-label="Reference from King of the Hill">That boy ain't right.</span> But at least he learned something. Which, to be fair, is basically the <span class="story-ref" data-source="BATMAN" tabindex="0" aria-label="Reference from Batman">why do we fall?</span> section of the story.
+<span class="story-ref" data-source="KING OF THE HILL" tabindex="0" aria-label="Reference from King of the Hill">That boy ain't right.</span> But at least he learned something.
 
 ---
 
 ## 2026: Back to What Works
 
-I started this year at 187. The current number is in the spreadsheet above, because that part keeps changing and I would rather let the data speak than keep manually updating this paragraph like a man arguing with his own changelog. What has stayed true is the structure: one 30-minute upper body strength session per week, seventy minutes of stationary cycling daily on paper, and in reality usually something like 6.75 hours of total workout time per week. That is fine. 6.75 hours is enough. The line is going down again. <span class="story-ref" data-source="LOTR" tabindex="0" aria-label="Reference from Lord of the Rings">There and back again</span>, except hopefully with fewer chicken nuggets involved.
+I started this year at 187. The current number is in the spreadsheet above, because that part keeps changing and I would rather let the data speak than keep manually updating this paragraph like a man arguing with his own changelog. What has stayed true is the structure: one 30-minute upper body strength session per week, seventy minutes of stationary cycling daily on paper, and in reality usually something like 6.75 hours of total workout time per week. That is fine. 6.75 hours is enough. The line is going down again.
 
 A few weeks ago I tried adding a second strength session. The food noise came back within days. So I pulled it back. This is the balancing act. Find the edge, back off slightly, stay there. <span class="story-ref" data-source="LOTR" tabindex="0" aria-label="Reference from Lord of the Rings">One does not simply</span> add more lifting and assume appetite will behave.
 
@@ -175,7 +175,7 @@ For people where the food noise is more severe than what I have described, there
 
 I have lost around 50 pounds over the last few years. I have watched approximately 900 hours of television while doing it. I have eaten a lot of cold seitan with mustard. I have drunk more instant coffee than any human should probably admit to publicly. I have eaten my kids' leftover chicken nuggets at 8pm and called it part of the plan because it was part of the plan.
 
-I built a system boring enough to actually maintain, flexible enough to survive a birthday party, and honest enough to account for who I actually am instead of who I wished I was. That is it. No secret. No extraordinary discipline. Just a spreadsheet, a bike, and a lot of television. Day after day, pound after pound, <span class="story-ref" data-source="THE WIRE" tabindex="0" aria-label="Reference from The Wire">all in the game</span>.
+I built a system boring enough to actually maintain, flexible enough to survive a birthday party, and honest enough to account for who I actually am instead of who I wished I was. That is it. No secret. No extraordinary discipline. Just a spreadsheet, a bike, and a lot of television.
 
 The goal was never 50 pounds. It was always just the next one.
 
@@ -185,3 +185,4 @@ If today goes sideways, which it will sometimes, just try again tomorrow. That i
 
 Written by Jesus Villegas, 2026.  
 Thanks for reading.
+
