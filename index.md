@@ -16,7 +16,7 @@ If you looked at my weight going back to around 2017 or 2018, you would see a li
 
 I want to be honest about motivation here because I think a lot of people are not. You will hear people say they started their fitness journey to be healthier, to live longer, to be there for their kids. And sure, fine, that is part of it. But if I am being real, a lot of it started with seeing Brad Pitt shirtless in Fight Club and thinking, I want to do that. Then you see Christian Bale go from the Machinist to Batman and back again and you think, wait, why can't I do that? Then you remember he has an entire team of trainers and nutritionists and you tell yourself you can't. But here is the thing: eating less costs less and takes less time overall. It is possible. It just will never, ever happen by accident. It needs intention.
 
-I hit somewhere around 215 pounds. That number was technically 219 on the first morning I ever stepped on a scale with real intention, but I want to be honest with you the way I try to be honest with myself: that was before my workout, before water, with whatever the previous day had left behind in my system. The next day it said 215. That is not four pounds of fat lost overnight. That is just your body being a liar, and it is important to know that going in because the scale will gaslight you constantly and you have to decide early that you are not going to let it win.
+I hit somewhere around 215 pounds. That number was technically 219 on the first morning I ever stepped on a scale with real intention, but I want to be honest with you the way I try to be honest with myself: that was before my workout, before water, with whatever the previous day had left behind in my system. The next day it said 215. That is not four pounds of fat lost overnight. That is just your body being a liar, and it is important to know that going in because the scale will gaslight you constantly and you have to decide early that you are not going to let it win. Every weird jump on the scale starts to feel like <span class="story-ref" data-source="STAR WARS" tabindex="0" aria-label="Reference from Star Wars">I've got a bad feeling about this</span>.
 
 A note on weighing yourself: I always do it right after showering from the workout, before breakfast. That is the lowest your weight will be all day. Pick a consistent moment and stick to it. The number itself matters less than the trend over time.
 
@@ -44,7 +44,7 @@ My setup is not fancy. I started watching on my phone. Eventually I moved to an 
 
 One more thing about the bike itself: get one with a large cushioned seat. I also use cycling shorts with built-in padding. This sounds like a minor detail until you are 70 minutes in and realize it is not a minor detail at all. Your body will find ways to complain if you let it. Remove as many complaints as possible in advance.
 
-The strategy for shows is simple: pick something long. Game of Thrones. The Sopranos. King of the Hill. Dragon Ball. Long shows work better than movies because there is always a reason to come back tomorrow. You want to know what happens. The workout is just the price of admission.
+The strategy for shows is simple: pick something long. Game of Thrones. The Sopranos. King of the Hill. Dragon Ball. Long shows work better than movies because there is always a reason to come back tomorrow. You want to know what happens. The workout is just the price of admission. This thing works because <span class="story-ref" data-source="SOPRANOS" tabindex="0" aria-label="Reference from The Sopranos">this thing of ours</span> has a rhythm to it.
 
 I will be real with you: I do not always finish a full episode in one session. The hour on the bike does not always line up perfectly with episode lengths, and all it takes is one mismatch to start a new session mid-episode. You have to make peace with this or the whole system falls apart. Watch for the time. Let the show do whatever it wants.
 
@@ -113,7 +113,7 @@ You do not need to do this. Chicken works perfectly fine. I switched for the eff
 
 ## The Mango Problem (And How I Actually Solved It)
 
-Here is the part where I have to be honest about how bad it can get. When I lose it with mangos, I really lose it. We are talking the entire Costco bag. And honestly, it is not entirely my fault. Mangos are loaded with natural sugar and then somehow also have added sugar on top of that. Sugar is addictive and I fall for it as hard as anyone.
+Here is the part where I have to be honest about how bad it can get. When I lose it with mangos, I really lose it. We are talking the entire Costco bag. And honestly, it is not entirely my fault. Mangos are loaded with natural sugar and then somehow also have added sugar on top of that. Sugar is addictive and I fall for it as hard as anyone. For a brief window, that Costco bag becomes <span class="story-ref" data-source="LOTR" tabindex="0" aria-label="Reference from Lord of the Rings">my precious</span>.
 
 The standard advice when you feel the urge to eat something off-plan is to tell yourself no. Do not do that. Your brain does not respond well to being told no. It starts to feel deprived, then resentful, then you eat the whole bag at once out of spite toward yourself.
 
@@ -131,7 +131,7 @@ I entered 2025 at 177 pounds. Close to 40 pounds down over a few years. Feeling 
 
 My weight went from 177 to 187.
 
-Ten pounds in the wrong direction after years of steady progress. The reason was not complicated. Every time I added significant weight training, my hunger spiked in a way that completely dismantled my meal plan. The food noise came back louder than ever. The spreadsheet was not enough. I could not hold the line.
+Ten pounds in the wrong direction after years of steady progress. The reason was not complicated. Every time I added significant weight training, my hunger spiked in a way that completely dismantled my meal plan. The food noise came back louder than ever. The spreadsheet was not enough. I could not hold the line. Apparently this was <span class="story-ref" data-source="DRAGON BALL" tabindex="0" aria-label="Reference from Dragon Ball">not even my final form</span>, and unfortunately the next form was just hungrier.
 
 I want to be specific: I am not saying strength training is bad. I am saying that for my body, at my current point, adding more than one heavy session per week breaks something in my hunger regulation that I have not yet figured out how to manage. That is information about me specifically. Your number might be different. But you find your number by going past it and noticing what breaks. Then you back off and try again.
 
@@ -143,7 +143,7 @@ That boy ain't right. But at least he learned something.
 
 I started this year at 187. The current number is in the spreadsheet above, because that part keeps changing and I would rather let the data speak than keep manually updating this paragraph like a man arguing with his own changelog. What has stayed true is the structure: one 30-minute upper body strength session per week, seventy minutes of stationary cycling daily on paper, and in reality usually something like 6.75 hours of total workout time per week. That is fine. 6.75 hours is enough. The line is going down again.
 
-A few weeks ago I tried adding a second strength session. The food noise came back within days. So I pulled it back. This is the balancing act. Find the edge, back off slightly, stay there.
+A few weeks ago I tried adding a second strength session. The food noise came back within days. So I pulled it back. This is the balancing act. Find the edge, back off slightly, stay there. <span class="story-ref" data-source="LOTR" tabindex="0" aria-label="Reference from Lord of the Rings">One does not simply</span> add more lifting and assume appetite will behave.
 
 ---
 
@@ -175,7 +175,7 @@ For people where the food noise is more severe than what I have described, there
 
 I have lost around 50 pounds over the last few years. I have watched approximately 900 hours of television while doing it. I have eaten a lot of cold seitan with mustard. I have drunk more instant coffee than any human should probably admit to publicly. I have eaten my kids' leftover chicken nuggets at 8pm and called it part of the plan because it was part of the plan.
 
-I built a system boring enough to actually maintain, flexible enough to survive a birthday party, and honest enough to account for who I actually am instead of who I wished I was. That is it. No secret. No extraordinary discipline. Just a spreadsheet, a bike, and a lot of television.
+I built a system boring enough to actually maintain, flexible enough to survive a birthday party, and honest enough to account for who I actually am instead of who I wished I was. That is it. No secret. No extraordinary discipline. Just a spreadsheet, a bike, and a lot of television. Day after day, pound after pound, <span class="story-ref" data-source="THE WIRE" tabindex="0" aria-label="Reference from The Wire">all in the game</span>.
 
 The goal was never 50 pounds. It was always just the next one.
 
