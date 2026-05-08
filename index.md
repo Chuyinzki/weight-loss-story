@@ -141,7 +141,7 @@ I want to be specific: I am not saying strength training is bad. I am saying tha
 
 ## 2026: Back to What Works
 
-I started this year at 187. The current number is in the spreadsheet above, because that part keeps changing and I would rather let the data speak than keep manually updating this paragraph like a man arguing with his own changelog. What has stayed true is the structure: one 30-minute upper body strength session per week, seventy minutes of stationary cycling daily on paper, and in reality usually something like 6.75 hours of total workout time per week. That is fine. 6.75 hours is enough. The line is going down again.
+I started this year at 187. As of early May I am at 168. Nineteen pounds in about four months. What has stayed true is the structure: one 30-minute upper body strength session per week, seventy minutes of stationary cycling daily on paper, and in reality usually something like 6.75 hours of total workout time per week. That is fine. 6.75 hours is enough. The spreadsheet above gets into the watch-time weeds if you want the receipts, but the important part is that the line is going down again.
 
 A few weeks ago I tried adding a second strength session. The food noise came back within days. So I pulled it back. This is the balancing act. Find the edge, back off slightly, stay there. <span class="story-ref" data-source="LOTR" tabindex="0" aria-label="Reference from Lord of the Rings">One does not simply</span> add more lifting and assume appetite will behave.
 
