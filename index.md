@@ -72,6 +72,7 @@ And because this thing has now become a weird little living document, here it is
 
 <div class="live-sheet">
   <p class="live-sheet__intro"><strong>The spreadsheet is still alive.</strong> I keep updating it as I go, because apparently even my weight loss story comes with patch notes.</p>
+  <p><em>Optional side quest:</em> yes, there is a <strong>Swim</strong> tab in there from a brief phase where I matched watch time to swim time. I would not personally recommend swimming for weight loss, though. For me it created an absolutely feral appetite that was wildly out of proportion to the calories I had actually burned.</p>
   <div class="live-sheet__frame">
     <iframe
       src="https://docs.google.com/spreadsheets/d/1D02qrSOui7RMCllGt0dDg9uDBggsYV_rAM21Py3-tz8/preview"
