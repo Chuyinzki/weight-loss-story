@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+# A Weight Loss Story for Normal People
+
 I want to be upfront about something before we get started. I am not a personal trainer. I do not have a nutrition certification. I have never once owned a foam roller and I genuinely do not know what a foam roller is for. What I do have is a stationary bike, a spreadsheet, a $25 pair of over-ear wireless headphones, and at this point somewhere around 900 hours of television I have watched while pedaling in place in the dark at 4:30 in the morning. If that sounds bleak, I promise it is not.
 
 People share all kinds of crazy stuff online. I figured I would share something personal that might actually help someone.

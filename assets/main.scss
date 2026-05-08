@@ -1,0 +1,138 @@
+---
+---
+
+@import "minima";
+
+:root {
+  --page-bg: #f6f1e8;
+  --paper: rgba(255, 252, 246, 0.94);
+  --paper-edge: rgba(137, 99, 61, 0.14);
+  --text: #2b221b;
+  --muted: #6a5648;
+  --accent: #9b4d19;
+  --accent-soft: #f0dfcf;
+  --rule: rgba(137, 99, 61, 0.18);
+  --shadow: 0 24px 60px rgba(60, 34, 16, 0.16);
+}
+
+body {
+  color: var(--text);
+  background:
+    radial-gradient(circle at top left, rgba(229, 191, 154, 0.45), transparent 32%),
+    linear-gradient(180deg, #f3ebdf 0%, #f8f4ec 38%, #efe4d2 100%);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.8;
+}
+
+.site-header {
+  border-top: 0;
+  border-bottom: 1px solid var(--rule);
+  background: rgba(255, 249, 240, 0.82);
+  backdrop-filter: blur(10px);
+  position: sticky;
+  top: 0;
+}
+
+.site-title,
+.site-title:visited {
+  color: var(--text);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.site-nav .page-link {
+  color: var(--muted);
+}
+
+.page-content {
+  padding: 3rem 0 4rem;
+}
+
+.post,
+.page-content .wrapper > *:first-child {
+  background: var(--paper);
+  border: 1px solid var(--paper-edge);
+  border-radius: 28px;
+  box-shadow: var(--shadow);
+}
+
+.page-content .wrapper > *:first-child {
+  padding: 2.75rem clamp(1.25rem, 3vw, 3.5rem);
+}
+
+.wrapper {
+  max-width: 860px;
+}
+
+h1,
+h2,
+h3 {
+  color: #1f1711;
+  font-family: "Palatino Linotype", Palatino, Georgia, serif;
+  letter-spacing: -0.03em;
+}
+
+h1 {
+  font-size: clamp(2.4rem, 5vw, 4.3rem);
+  line-height: 1.02;
+  margin-bottom: 1.3rem;
+}
+
+h2 {
+  font-size: clamp(1.7rem, 2.4vw, 2.2rem);
+  line-height: 1.15;
+  margin-top: 3.2rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.08rem;
+  margin-bottom: 1.2rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: #6f3610;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  margin: 2rem 0;
+  background: linear-gradient(90deg, transparent, var(--rule), transparent);
+}
+
+blockquote {
+  color: var(--muted);
+  border-left: 4px solid var(--accent);
+  background: rgba(240, 223, 207, 0.48);
+  padding: 0.9rem 1.1rem;
+  border-radius: 0 14px 14px 0;
+}
+
+strong {
+  color: #1e1610;
+}
+
+.site-footer {
+  border-top: 1px solid var(--rule);
+  background: rgba(255, 249, 240, 0.75);
+}
+
+@media screen and (max-width: 600px) {
+  .page-content {
+    padding-top: 1.5rem;
+  }
+
+  .page-content .wrapper > *:first-child {
+    border-radius: 20px;
+    padding: 1.5rem 1rem 2rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
