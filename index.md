@@ -107,7 +107,7 @@ My goal was never 50 pounds or 30 pounds or even 10 pounds. It was always 1 or 2
 
 Around this time I also switched from chicken to seitan, which is a protein made from vital wheat gluten. I make large batches in an instant pot. Cheap, fast, some of the highest protein-to-calorie ratio of any food I have found. I used to microwave it. Now I just pull it from the fridge, hit it with mustard, and eat it cold, which saves a few minutes, and those minutes add up.
 
-You do not need to do this. Chicken works perfectly fine. I switched for the efficiency, the cost, and also because reducing animal suffering where I can matters to me. And look, if I am going to eat cold seitan with mustard every day, I need a reason to feel good about it. Scott Pilgrim vs. the World gave me one: <span class="story-ref" data-source="SCOTT PILGRIM VS. THE WORLD" tabindex="0" aria-label="Reference from Scott Pilgrim vs. the World">being vegan just makes you better than most people</span> 😄. 
+You do not need to do this. Chicken works perfectly fine. I switched for the efficiency, the cost, and also because reducing animal suffering where I can matters to me. And look, if I am going to eat cold seitan with mustard every day, I need a reason to feel good about it. At that point, <span class="story-ref" data-source="SCOTT PILGRIM VS. THE WORLD" tabindex="0" aria-label="Reference from Scott Pilgrim vs. the World">being vegan just makes you better than most people</span> 😄. 
 
 ---
 
@@ -185,4 +185,6 @@ If today goes sideways, which it will sometimes, just try again tomorrow. That i
 
 Written by Jesus Villegas, 2026.  
 Thanks for reading.
+
+
 
