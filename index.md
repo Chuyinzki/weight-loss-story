@@ -180,3 +180,8 @@ I built a system boring enough to actually maintain, flexible enough to survive 
 The goal was never 50 pounds. It was always just the next one.
 
 If today goes sideways, which it will sometimes, just try again tomorrow. That is the whole thing.
+
+---
+
+Written by Jesus Villegas, 2026.  
+Thanks for reading.
