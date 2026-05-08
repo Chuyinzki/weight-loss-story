@@ -68,6 +68,20 @@ I need to be honest about my relationship with food because I think it might be 
 
 I built a spreadsheet. Every meal, every portion, laid out across the day. Not because I enjoy spreadsheets, but because I needed something to look at when the noise started.
 
+And because this thing has now become a weird little living document, here it is in all its daily updated glory. If you want the real-time version of the chaos instead of the polished retrospective, this is the mothership:
+
+<div class="live-sheet">
+  <p class="live-sheet__intro"><strong>The spreadsheet is still alive.</strong> I keep updating it as I go, because apparently even my weight loss story comes with patch notes.</p>
+  <div class="live-sheet__frame">
+    <iframe
+      src="https://docs.google.com/spreadsheets/d/1D02qrSOui7RMCllGt0dDg9uDBggsYV_rAM21Py3-tz8/preview"
+      title="Live weight loss spreadsheet"
+      loading="lazy">
+    </iframe>
+  </div>
+  <p class="live-sheet__fallback">If the embed decides to act mysterious, you can open the <a href="https://docs.google.com/spreadsheets/d/1D02qrSOui7RMCllGt0dDg9uDBggsYV_rAM21Py3-tz8/edit?usp=sharing">live spreadsheet directly here</a>.</p>
+</div>
+
 The food noise. If you have tried to lose weight you know exactly what I mean. It is not hunger, precisely. It is more like a persistent background hum that tells you to eat something, anything, right now, regardless of whether you are actually hungry. It is the reason you open the refrigerator for the fourteenth time without wanting anything in particular. It is real, it is relentless, and it will wreck your progress if you do not have a plan for it.
 
 Crucially: the noise is worst at the end of the day, not the beginning. Mornings are manageable. By late afternoon it gets loud. The plan has to account for that.
@@ -126,7 +140,7 @@ That boy ain't right. But at least he learned something.
 
 ## 2026: Back to What Works
 
-I started this year at 187. As of early May I am at 168. Nineteen pounds in about four months. One 30-minute upper body strength session per week. Seventy minutes of stationary cycling daily, planned. My actual average is about 6.75 hours of total workout time per week, which means I am not always hitting the plan exactly. That is fine. 6.75 hours is enough. The line is going down again.
+I started this year at 187. The current number is in the spreadsheet above, because that part keeps changing and I would rather let the data speak than keep manually updating this paragraph like a man arguing with his own changelog. What has stayed true is the structure: one 30-minute upper body strength session per week, seventy minutes of stationary cycling daily on paper, and in reality usually something like 6.75 hours of total workout time per week. That is fine. 6.75 hours is enough. The line is going down again.
 
 A few weeks ago I tried adding a second strength session. The food noise came back within days. So I pulled it back. This is the balancing act. Find the edge, back off slightly, stay there.
 
