@@ -48,6 +48,21 @@ The strategy for shows is simple: pick something long. Game of Thrones. The Sopr
 
 I will be real with you: I do not always finish a full episode in one session. The hour on the bike does not always line up perfectly with episode lengths, and all it takes is one mismatch to start a new session mid-episode. You have to make peace with this or the whole system falls apart. Watch for the time. Let the show do whatever it wants.
 
+And because that part of this has also become a weird little living document, here it is in all its daily updated glory. If you want the real-time version of the chaos instead of the polished retrospective, this is the mothership:
+
+<div class="live-sheet">
+  <p class="live-sheet__intro"><strong>The watchlist spreadsheet is still alive.</strong> This is the hour-by-hour TV log: what I watched, how long I watched it, and the kind of nonsense that can only accumulate when a fitness plan gets merged with a television habit.</p>
+  <p><em>Optional side quest:</em> yes, there is a <strong>Swim</strong> tab in there from a brief phase where I matched watch time to swim time. I would not personally recommend swimming for weight loss, though. For me it created an absolutely feral appetite that was wildly out of proportion to the calories I had actually burned.</p>
+  <div class="live-sheet__frame">
+    <iframe
+      src="https://docs.google.com/spreadsheets/d/1D02qrSOui7RMCllGt0dDg9uDBggsYV_rAM21Py3-tz8/preview"
+      title="Live television watchlist spreadsheet"
+      loading="lazy">
+    </iframe>
+  </div>
+  <p class="live-sheet__fallback">If the embed decides to act mysterious, you can open the <a href="https://docs.google.com/spreadsheets/d/1D02qrSOui7RMCllGt0dDg9uDBggsYV_rAM21Py3-tz8/edit?usp=sharing">watchlist spreadsheet directly here</a>.</p>
+</div>
+
 Headphones also open up something underrated: you can work out at any hour, at any volume, without waking anyone up. Full surround sound at 4:30am while everyone else is asleep. That is actually kind of a luxury when you think about it.
 
 ---
@@ -67,21 +82,6 @@ Around the time I hit the 190s, the weight started to slow down. Same effort, le
 I need to be honest about my relationship with food because I think it might be yours too. My biggest weakness is that I cannot let food go to waste. I will eat something I did not want or need simply because it is sitting there and throwing it away feels wrong. This is not a quirk. It is a behavioral pattern that will absolutely wreck a diet if you do not account for it. So I accounted for it.
 
 I built a spreadsheet. Every meal, every portion, laid out across the day. Not because I enjoy spreadsheets, but because I needed something to look at when the noise started.
-
-And because this thing has now become a weird little living document, here it is in all its daily updated glory. If you want the real-time version of the chaos instead of the polished retrospective, this is the mothership:
-
-<div class="live-sheet">
-  <p class="live-sheet__intro"><strong>The spreadsheet is still alive.</strong> I keep updating it as I go, because apparently even my weight loss story comes with patch notes.</p>
-  <p><em>Optional side quest:</em> yes, there is a <strong>Swim</strong> tab in there from a brief phase where I matched watch time to swim time. I would not personally recommend swimming for weight loss, though. For me it created an absolutely feral appetite that was wildly out of proportion to the calories I had actually burned.</p>
-  <div class="live-sheet__frame">
-    <iframe
-      src="https://docs.google.com/spreadsheets/d/1D02qrSOui7RMCllGt0dDg9uDBggsYV_rAM21Py3-tz8/preview"
-      title="Live weight loss spreadsheet"
-      loading="lazy">
-    </iframe>
-  </div>
-  <p class="live-sheet__fallback">If the embed decides to act mysterious, you can open the <a href="https://docs.google.com/spreadsheets/d/1D02qrSOui7RMCllGt0dDg9uDBggsYV_rAM21Py3-tz8/edit?usp=sharing">live spreadsheet directly here</a>.</p>
-</div>
 
 The food noise. If you have tried to lose weight you know exactly what I mean. It is not hunger, precisely. It is more like a persistent background hum that tells you to eat something, anything, right now, regardless of whether you are actually hungry. It is the reason you open the refrigerator for the fourteenth time without wanting anything in particular. It is real, it is relentless, and it will wreck your progress if you do not have a plan for it.
 
