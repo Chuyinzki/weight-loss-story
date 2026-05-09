@@ -40,7 +40,7 @@ The stationary bike was chosen for one reason: I could watch TV on it.
 
 This sounds like a joke but it is actually the foundation of everything. The single biggest enemy of a consistent workout is not laziness. It is boredom. Solve the boredom problem and you have solved most of the consistency problem.
 
-My setup is not fancy. I started watching on my phone. Eventually I moved to an old laptop I had lying around, nothing fancy, 4GB of RAM, the kind that cannot open a Chrome tab without an existential crisis. But once it gets going it plays video just fine and the bigger screen makes a real difference. My headphones started as $25 earbuds and graduated to $25 over-ear wireless headphones, which are genuinely more comfortable for long sessions. Wireless is non-negotiable once you are moving around. My smartwatch is also $25 and at this point exists mainly to wake me up.
+My setup is not fancy. I started watching on my phone. Eventually I moved to an old laptop I had lying around, nothing fancy, 4GB of RAM, the kind that cannot open a Chrome tab without an existential crisis. Absolute <span class="story-ref" data-source="STAR WARS: THE CLONE WARS" tabindex="0" aria-label="Reference from Star Wars: The Clone Wars">clanker</span> of a machine. But once it gets going it plays video just fine and the bigger screen makes a real difference. My headphones started as $25 earbuds and graduated to $25 over-ear wireless headphones, which are genuinely more comfortable for long sessions. Wireless is non-negotiable once you are moving around. My smartwatch is also $25 and at this point exists mainly to wake me up.
 
 One more thing about the bike itself: get one with a large cushioned seat. I also use cycling shorts with built-in padding. This sounds like a minor detail until you are 70 minutes in and realize it is not a minor detail at all. Your body will find ways to complain if you let it. Remove as many complaints as possible in advance.
 
@@ -72,6 +72,12 @@ Headphones also open up something underrated: you can work out at any hour, at a
 My cycling routine is 3 minutes easy to warm up, then medium intensity until minute 10, then a repeating pattern of 1 minute easy followed by 9 minutes medium until I finish. I try to stay away from peak heart rate. Pushing to peak makes me lose focus on the show, introduces volatility into my rhythm, and can undermine the steady medium intensity I am going for. When I finish I am always deeply, impressively sweaty. Not out of breath. Just completely soaked through. The show is still playing. Life is good.
 
 I almost never quit a workout early. What I do instead is drop the intensity and keep going. A bad workout still happened. A skipped workout did not.
+
+In theory, weight loss is simple. Calories in, calories out. And in theory, diet is what drives that equation, not exercise. But theory does not change behavior. Practice does.
+
+Once you know what a workout actually costs you in time and effort, you start looking at food completely differently. A 300 calorie cookie is not just a cookie anymore. It is 30 minutes on the bike. And it was never really about that one cookie anyway. The moment the first one goes in, the seal is broken and the floodgates open. One cookie is never one cookie. It is the five that inevitably come after it too. With all of that considered, you start looking at that cookie very differently. <span class="story-ref" data-source="BIOSHOCK" tabindex="0" aria-label="Reference from BioShock">Would you kindly go into the</span> cookie's <span class="story-ref" data-source="BIOSHOCK" tabindex="0" aria-label="Reference from BioShock">office, and kill the son of a bitch?</span>
+
+So while diet is what loses the weight in theory, exercise is what makes you take your diet seriously in practice. The workout does not create the deficit. It makes you protect it.
 
 ---
 
