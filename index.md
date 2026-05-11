@@ -15,7 +15,7 @@ People share all kinds of crazy stuff online. I figured I would share something 
 If you looked at my weight going back to around 2017 or 2018, you would see a line that mostly went up. Not dramatically. Not in some moment of crisis. Just the steady, polite creep of a body that was eating normally and exercising not at all. I was not obese by any clinical definition. I was just a guy in his mid-twenties whose metabolism had quietly filed a notice of resignation and whose diet had not gotten the memo. My body had finished growing up and then, when it ran out of up, it started growing sideways.
 
 <figure class="story-figure story-figure--wide">
-  <img src="{{ site.baseurl }}/assets/images/weight-trend-february.png" alt="Fitbit chart showing a full-year trend from 2017 to today, with weight rising into 2021 and then dropping sharply before settling lower." loading="lazy">
+  <img src="{{ site.baseurl }}/assets/images/weight-trend-full.png" alt="Fitbit chart showing a full-year trend from 2017 to today, with weight rising into 2021 and then dropping sharply before settling lower." loading="lazy">
   <figcaption>The long view. You can see the quiet climb, the sharp correction, the 2025 rebound, and the line heading back down again.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ I hit somewhere around 215 pounds. That number was technically 219 on the first 
 A note on weighing yourself: I always do it right after showering from the workout, before breakfast. That is the lowest your weight will be all day. Pick a consistent moment and stick to it. The number itself matters less than the trend over time.
 
 <figure class="story-figure">
-  <img src="{{ site.baseurl }}/assets/images/weight-trend-full.png" alt="Fitbit chart for February showing daily weight bouncing up and down while trending downward overall." loading="lazy">
+  <img src="{{ site.baseurl }}/assets/images/weight-trend-february.png" alt="Fitbit chart for February showing daily weight bouncing up and down while trending downward overall." loading="lazy">
   <figcaption>A random month where the line still acts ridiculous. Even in a good month, you are not going to have perfect eating days every single day. If you did, the line would probably just slide downward in a neat little slope. Real life is messier than that, so the points bounce around. What matters is the overall drift.</figcaption>
 </figure>
 
