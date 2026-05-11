@@ -27,7 +27,7 @@ A note on weighing yourself: I always do it right after showering from the worko
 
 <figure class="story-figure">
   <img src="/assets/images/weight-trend-february.png" alt="Fitbit chart for February showing daily weight bouncing up and down while trending downward overall." loading="lazy">
-  <figcaption>A random month where the line still acts ridiculous. Even while losing weight, the day-to-day points bounce around. What matters is the overall drift.</figcaption>
+  <figcaption>A random month where the line still acts ridiculous. Even in a good month, you are not going to have perfect eating days every single day. If you did, the line would probably just slide downward in a neat little slope. Real life is messier than that, so the points bounce around. What matters is the overall drift.</figcaption>
 </figure>
 
 So. 215 pounds. Late 2021. My daughter had just been born, she was maybe three or four months old, and I was in that particular fog that comes with a new baby in the house where the days blur together and you are surviving more than you are living. This is, objectively, a terrible time to start a fitness journey. Basically a little bit of a <span class="story-ref" data-source="STAR WARS" tabindex="0" aria-label="Reference from Star Wars">never tell me the odds</span> situation. I am going to recommend it anyway.
