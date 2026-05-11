@@ -14,13 +14,30 @@ People share all kinds of crazy stuff online. I figured I would share something 
 
 If you looked at my weight going back to around 2017 or 2018, you would see a line that mostly went up. Not dramatically. Not in some moment of crisis. Just the steady, polite creep of a body that was eating normally and exercising not at all. I was not obese by any clinical definition. I was just a guy in his mid-twenties whose metabolism had quietly filed a notice of resignation and whose diet had not gotten the memo. My body had finished growing up and then, when it ran out of up, it started growing sideways.
 
+<figure class="story-figure story-figure--wide">
+  <img src="/assets/images/weight-trend-full.png" alt="Fitbit chart showing a full-year trend from 2017 to today, with weight rising into 2021 and then dropping sharply before settling lower." loading="lazy">
+  <figcaption>The long view. You can see the quiet climb, the sharp correction, the 2025 rebound, and the line heading back down again.</figcaption>
+</figure>
+
 I want to be honest about motivation here because I think a lot of people are not. You will hear people say they started their fitness journey to be healthier, to live longer, to be there for their kids. And sure, fine, that is part of it. But if I am being real, a lot of it started with seeing Brad Pitt shirtless in Fight Club and thinking, I want to do that. Then you see Christian Bale go from the Machinist to Batman and back again and you think, wait, why can't I do that? Then you remember he has an entire team of trainers and nutritionists and you tell yourself you can't. But here is the thing: eating less costs less and takes less time overall. It is possible. It just will never, ever happen by accident. It needs intention.
 
 I hit somewhere around 215 pounds. That number was technically 219 on the first morning I ever stepped on a scale with real intention, but I want to be honest with you the way I try to be honest with myself: that was before my workout, before water, with whatever the previous day had left behind in my system. The next day it said 215. That is not four pounds of fat lost overnight. That is just your body being a liar, and it is important to know that going in because the scale will gaslight you constantly and you have to decide early that you are not going to let it win. Every weird jump on the scale starts to feel like <span class="story-ref" data-source="STAR WARS" tabindex="0" aria-label="Reference from Star Wars">I've got a bad feeling about this</span>.
 
 A note on weighing yourself: I always do it right after showering from the workout, before breakfast. That is the lowest your weight will be all day. Pick a consistent moment and stick to it. The number itself matters less than the trend over time.
 
+<figure class="story-figure">
+  <img src="/assets/images/weight-trend-february.png" alt="Fitbit chart for February showing daily weight bouncing up and down while trending downward overall." loading="lazy">
+  <figcaption>A random month where the line still acts ridiculous. Even while losing weight, the day-to-day points bounce around. What matters is the overall drift.</figcaption>
+</figure>
+
 So. 215 pounds. Late 2021. My daughter had just been born, she was maybe three or four months old, and I was in that particular fog that comes with a new baby in the house where the days blur together and you are surviving more than you are living. This is, objectively, a terrible time to start a fitness journey. Basically a little bit of a <span class="story-ref" data-source="STAR WARS" tabindex="0" aria-label="Reference from Star Wars">never tell me the odds</span> situation. I am going to recommend it anyway.
+
+Most of the actual damage to that number got undone in 2022. Not all at once, not in some movie montage, just month after month of the line inching down because I kept doing the same thing over and over.
+
+<figure class="story-figure">
+  <img src="/assets/images/weight-trend-2022.png" alt="Fitbit chart for 2022 showing a steady decline across the year from just above 200 pounds toward 190." loading="lazy">
+  <figcaption>2022 was the workhorse year. This is where most of the weight came off: a steady, unspectacular, absolutely beautiful downward slope.</figcaption>
+</figure>
 
 ---
 
